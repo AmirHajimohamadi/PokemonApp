@@ -1,6 +1,6 @@
 # Pokemon App
 
-This is a forked version of Pokemon App with animations, beautiful UI and network call.
+This is a forked version of Pokemon App with animations, fantastic UI and network call.
 
 ## YouTube Tutorials
 ### Hindi
